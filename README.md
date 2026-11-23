@@ -1,6 +1,6 @@
-# Análise de vendas com Python
+# Análise de dados com Python, Pandas e Matplotlib
 
-Projeto de estudos para praticar manipulação de dados e criação de gráficos com Python. Explora o faturamento por categoria, estado, mês e produto, além das quantidades vendidas dos produtos selecionados.
+Projeto de estudos para praticar manipulação e análise de dados com Python e Pandas e criação de gráficos com Matplotlib e Seaborn. O foco foi estudar a transformação de dados em métricas e visualizações que facilitem a leitura e a interpretação dos resultados de uma empresa.
 
 Os dados são **inteiramente fictícios**, gerados aleatoriamente pelo módulo [db_generator.py](db_generator.py) e salvos em `vendas.csv`. Não representam vendas de uma empresa real.
 
